@@ -4,10 +4,9 @@ Languages
 - CSS 3
 - jQuery
 
-Plugins 
+Front End Framework 
 --------
-- Highchart
+- Bootstrap 4
 
-Project Description
---------
-This user interface prototype was made for LFi
+
+
